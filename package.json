@@ -1,0 +1,16 @@
+{
+  "name": "flappybird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "reload -b -p 8777"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "reload": "^2.3.1"
+  }
+}
